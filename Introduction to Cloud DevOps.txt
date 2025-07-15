@@ -1,0 +1,41 @@
+CI/CD Cloud DevOps:
+
+DevOps is the combination of developer and operations team.
+
+Dev- Tools: build, code, test, plan.
+
+Ops- Release, manage, monitor, deploy.
+
+Why DevOps?
+For continuous integration And continuous Delivery/deployment.
+
+Continuous Integration:- 
+--> Automatically build and test when there is a change in code.
+--> Ensure bug free code.
+--> Ensures higher code quality and reduces integration issues.
+--> Packing the application (war/jar/docker image).
+
+Continuous Deployment:-
+--> Automatically deploy application for production.
+
+Life Cycle:
+Code--->Build--->Test--->Deploy
+
+For coding we use Git, GitHub, GitLab, Bitbucket.
+For Building it will generate either jar/war/docker image.
+For Testing we use SonarQube, Junit, Pytest.
+For Deploying we use Apache/Tomcat.
+
+Tools & Technologies:
+
+Version Control: Git, GitHub, GitLab.
+CI/CD: Jenkins, GitHub Actions, GitLab CI.
+Containerization: Docker, Podman.
+Orchestration: Kubernetes, ECS.
+Cloud Providers: AWS, Azure, Google Cloud Platform.
+Infrastructure as Code(IaC): Terraform, AWS Cloud Formation, Ansible.
+Monitoring & Logging: Prometheus, Grafana, ELK Stack, Cloud Watch.
+
+
+
+
